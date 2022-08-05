@@ -1,0 +1,22 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("https://www.thecuriousreader.in/wp-content/uploads/2020/06/List-2019-3-_Cover-10-Dystopian-Graphic-Novels-That-Will-Blow-Your-Mind.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container {
+  padding-left: 45px;
+  text-align: left;
+}
+
+.banner h1 {
+  font-size: 36px;
+  color: white;
+}
+
+.banner p {
+  font-size: 18px;
+  color: lightgray;
+  padding-bottom: 15px;
+}

@@ -1,0 +1,15 @@
+.btn {
+  background-color: rgb(24, 126, 92);
+  color: white;
+  border-radius: 10px;
+  padding: 15px 25px;
+}
+
+.btn:hover{
+  background-color: white;
+  border-color: gray;
+  border-style: dashed;
+  color: gray;
+  font-weight: bolder;
+  transition: 0.3s ease;
+}
